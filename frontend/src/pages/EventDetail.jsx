@@ -426,7 +426,7 @@ function EventDetail({ user }) {
         ...bookingData,
       }, config)
 
-      setBookingSuccess("🎉 Booking successful! Check your email for confirmation.")
+      setBookingSuccess("🎉 Booking successful!")
       setBookingData({
         name: "",
         email: "",
