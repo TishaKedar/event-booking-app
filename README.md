@@ -53,6 +53,26 @@ A modern, full-stack event booking platform built with ASP.NET Core 8, React 18,
 - **Vite** - Fast build tool and dev server
 - **Styled Components** - Component styling
 
+##  Screenshots
+
+### Login Page
+![Login Page](./screenshots/login.png)
+
+### Register Page
+![Pegister Page](./screenshots/register.png)
+
+### Browse Events Page
+![Browse Events Page](./screenshots/browse.png)
+
+### Events Details Page
+![Events Details Page](./screenshots/details.png)
+
+### Create Event Form
+![Create Event Form](./screenshots/createEvent.png)
+
+### Event Dashboard
+![Event Dashboard](./screenshots/eventDashboard.png)
+
 ## Prerequisites
 
 Before running this application, ensure you have the following installed:
@@ -253,6 +273,7 @@ npm run build
 
 2. Deploy the `dist` folder to your hosting service (Vercel, Netlify, etc.)
 3. Update API base URL for production
+
 
 ##  Future Enhancements
 
